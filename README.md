@@ -16,15 +16,12 @@ Heavily inspired by [LITOS](https://github.com/pertzlab/LITOS), right around the
   * [Bambu Lab X1C](https://bambulab.com/en-us/x1)
   * [Extrudr GreenTEC Pro](https://www.extrudr.com/shop-eu/products/greentec-pro/)
 
-Case overview:
 ![](/media/case_in.png)
 ![](/media/case_out.png)
 
 ## UI
 
-Plates tab:
 ![](/media/ui_plates.png)
-Presets tab:
 ![](/media/ui_presets.png)
 
 ## Install
