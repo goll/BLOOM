@@ -1,0 +1,3 @@
+[submodule "software/WLED"]
+	path = software/WLED
+	url = https://github.com/goll/WLED.git
