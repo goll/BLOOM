@@ -11,7 +11,7 @@ Heavily inspired by [LITOS](https://github.com/pertzlab/LITOS), right around the
 ## Hardware
 
 * [Adafruit MatrixPortal S3](https://www.adafruit.com/product/5778) ~€25
-* [Adafruit 64x64 LED matrix P3](https://www.adafruit.com/product/4732) ~€35
+* [64x64 LED matrix P3](https://www.waveshare.com/RGB-Matrix-P3-64x64-F.htm) ~€35
 * 3D printed case (~215g of filament):
   * [Bambu Lab X1C](https://bambulab.com/en-us/x1)
   * [Extrudr GreenTEC Pro](https://www.extrudr.com/shop-eu/products/greentec-pro/)
